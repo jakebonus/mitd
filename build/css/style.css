@@ -1,0 +1,23 @@
+#dt_concern, #dt_office, #dt_personnel>tbody{
+  font-size:16px;
+  text-align: center;
+}
+
+.touch-screen .dataTables_info{
+  display: none;
+}
+
+#dt_personnelmonitoring>tbody{
+  font-size:16px;
+  text-align: center;
+}
+
+
+#dt_projectmonitoring>tbody{
+  font-size: 14px;
+  text-align: center;
+}
+
+/* .touch-screen .dataTables_info{
+  display: none;
+} */

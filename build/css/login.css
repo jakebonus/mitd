@@ -1,0 +1,32 @@
+.form.login_form {
+  background-color: #fff;
+  border-radius: 30px;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border: 0px solid #000000;
+  padding: 30px;
+  position: relative;
+}
+.login_content_section input {
+  border: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-bottom: 1px solid #e4e4e4;
+  padding: 0;
+  margin-bottom: 10px;
+}
+.login {
+  /*background: #525252; 
+  background: -webkit-linear-gradient(to right, #3d72b4, #525252);
+  background: linear-gradient(to right, #3d72b4, #525252);*/
+
+  background: #606c88;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #3f4c6b, #606c88);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #3f4c6b, #606c88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.login_wrapper {
+  max-width: 390px;
+  padding: 0 20px;
+}
